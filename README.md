@@ -1,4 +1,4 @@
 # ECE221
 
-This contains all the matlab code for labs in ECE221 (electric and magnetic fields)
-HAHA
+This contains code for ECE221 (electric and magnetic fields)
+This includes lab handouts and matlab files
